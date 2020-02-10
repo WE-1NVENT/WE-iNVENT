@@ -10,9 +10,9 @@ WE.iNVENT works with the moto that 'WE' are always greater than 'I' am alone. We
 
 ```markdown
 What is your expertise in? 
-## AI
-## ML
+## AI & ML
 ## Data
+## Design
 
 You wanna have an intern 
 
