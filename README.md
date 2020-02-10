@@ -16,10 +16,9 @@ What is your expertise in?
 
 You wanna have an intern 
 
-### Support or Contact
-
 You love work from home? Wooho this is the platform for you!
-# Get in touch ith us! 
+### Get in touch ith us! 
+
 # Namrata : 9702200360
 # Amey    : 9404339885
 # mail @ hack.invent@gmail.com
