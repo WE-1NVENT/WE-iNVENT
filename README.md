@@ -8,10 +8,6 @@ We are here for your collaboration!
 WE.iNVENT works with the moto that 'WE' are always greater than 'I' am alone. We are looking for bright minds to work with us on the innovative solutions. As, together we can achieve more than an individual can
 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
 ```markdown
 What is your expertise in? 
 # AI
